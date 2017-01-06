@@ -1,0 +1,10 @@
+{
+  "name": "vsocde-18067-repro",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Luke John <email@lukejohn.me>",
+  "license": "MIT",
+  "dependencies": {
+    "typescript": "^2.1.4"
+  }
+}
